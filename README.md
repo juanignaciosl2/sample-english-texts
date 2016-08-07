@@ -1,3 +1,3 @@
 # sample-english-texts
 
-Just some sample texts.
+Just some sample texts to check servers.
